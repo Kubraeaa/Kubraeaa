@@ -6,7 +6,8 @@
 - 🌱 Öğrenme ve geliştirme aşamasındayım.<br>
 - 🔒 Siber Güvenlik konusunda orta derece deneyime sahibim.<br>
 - 🐍 Python programlama dili ve kütüphaneleri ile ileri düzeyde ilgileniyorum.<br>
-- ✅Python Tool geliştirmeleri ile uğraşıyorum.<br>- 📱 Android Studio Kotlin ile uygulama geliştiriyorum.<br>
+- ✅Python Tool geliştirmeleri ile uğraşıyorum.<br>
+- 📱 Android Studio Kotlin ile uygulama geliştiriyorum.<br>
 - 💬 Benimle iletişime geçebilirsiniz!<br>
 - Linkedln: https://www.linkedin.com/in/kübra-kara-394850/<br>
 - Mail: kubra26kara@gmail.com<br>
